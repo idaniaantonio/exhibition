@@ -1,0 +1,44 @@
+p {
+	font-family: Courier New;
+	font-size: 20px;
+}
+
+body{
+	background-color: Grey;
+	cursor: url(Images/Roses.png), auto;
+}
+h1{
+	text-align: center;
+	font-size: 47px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+	background-color:Red;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: Red;
+	
+}
+
+h2{
+	font-family: Courier New;
+}
+
+
